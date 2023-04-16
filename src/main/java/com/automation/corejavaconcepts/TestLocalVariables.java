@@ -6,6 +6,8 @@ public class TestLocalVariables {
         - Local variables are present in method/constructor/blocks
         - Scope : method/constructor/blocks
         - local variable are stored in inside stack memory
+        - Local variable always need to initialised
+        - Priority always provided to local variable if variable same name provided
        */
     public void m1() {
         int age =12;//Local scope
