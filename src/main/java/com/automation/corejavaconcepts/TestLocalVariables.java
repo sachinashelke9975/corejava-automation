@@ -8,7 +8,7 @@ public class TestLocalVariables {
         - local variable are stored in inside stack memory
        */
     public void m1() {
-        int age =12;
+        int age =12;//Local scope
         System.out.println(age);
     }
     public static void main(String[] args) {
