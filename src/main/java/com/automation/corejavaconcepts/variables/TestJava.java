@@ -1,4 +1,4 @@
-package com.automation.corejavaconcepts;
+package com.automation.corejavaconcepts.variables;
 
 public class TestJava {
     public static void main(String[] args) {

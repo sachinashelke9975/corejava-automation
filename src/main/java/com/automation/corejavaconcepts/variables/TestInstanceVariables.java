@@ -1,6 +1,4 @@
-package com.automation.corejavaconcepts;
-
-import sun.awt.geom.AreaOp;
+package com.automation.corejavaconcepts.variables;
 
 public class TestInstanceVariables {
     /*Variable
