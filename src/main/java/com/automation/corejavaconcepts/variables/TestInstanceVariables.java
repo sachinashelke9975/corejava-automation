@@ -6,8 +6,9 @@ public class TestInstanceVariables {
         - Variables that are used in class level : Instance variables
         - Instance variable are out-side method/constructor/blocks
         - Access throughout class/method/constructor/blocks
-        - Not need to initialised
+        - No need to initialised
         - Instance variable can not be access directly in static area
+        -  Stored in heap memory
        */
     int a = 10;
     String name = "Mudra";
